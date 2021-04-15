@@ -1,4 +1,6 @@
 <p align="center">
+	
+![sprintcapa](https://user-images.githubusercontent.com/79121527/114938119-17755780-9e15-11eb-9922-6e302d73d4fb.gif)
 
  <h1 align="center">🌐 Sprint - Generation Brasil </h1>
 
@@ -10,7 +12,8 @@
     
     ## 📄 Sobre o Projeto
 <p align="center"> 
-	👁️ Sprint foi desenvolvido como o primeiro contato com a Sprint boot, API usada como base para o Back-end
+	👁️ Sprint foi desenvolvido como o primeiro contato com a Sprint boot, API usada como base para o Back-end.
+	
    Projeto desenvolvido no BootCamp da Generation Brasil.
 </p>
    
